@@ -1,6 +1,7 @@
 This is a Linked list with control information.
 ==============================================
 **directory tree**
+```
 .
 ├── bin
 │   └── test
@@ -14,6 +15,8 @@ This is a Linked list with control information.
     └── main.c
 
 5 directories, 5 files
+```
+
 ---------------------------------------------
 > please use the Makefile to test.
 
@@ -26,6 +29,7 @@ This is a Linked list with control information.
 这是一个带有控制信息的单链表。
 ===========================================
 **生成后的目录树结构：**
+```
 .
 ├── bin
 │   ├── list
@@ -43,6 +47,7 @@ This is a Linked list with control information.
     └── main.c
 
 5 directories, 9 files
+```
 -----------------------------------------
 > 请使用`Makefile`来做测试，生成可执行代码。
 
